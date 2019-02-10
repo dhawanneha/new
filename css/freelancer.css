@@ -7,6 +7,19 @@ body {
 }
 
 
+
+
+
+
+.back {
+  background-color: lightblue;
+}
+
+.container-full-width {
+    width: 100%;
+}
+
+
 h1,
 h2,
 h3,
@@ -14,7 +27,7 @@ h4,
 h5,
 h6,
 {
-  font-weight: 700;
+  font-weight: 800;
   font-family: 'Nunito', open-sans;
   font-style: normal; 
   font-variant: normal;
@@ -22,8 +35,8 @@ h6,
 }
 
 .pad{
-  padding-top: 1.5em;
-  padding-bottom: .5em;
+  padding-top: 2em;
+  padding-bottom: 1em;
 }
 
 
