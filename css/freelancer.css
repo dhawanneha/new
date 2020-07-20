@@ -7,10 +7,6 @@ body {
 }
 
 
-
-
-
-
 .back {
   background-color: lightblue;
 }
@@ -28,7 +24,7 @@ h5,
 h6,
 {
   font-weight: 800;
-  font-family: 'Nunito', open-sans;
+  font-family: 'Lato', open-sans;
   font-style: normal; 
   font-variant: normal;
   letter-spacing: 1.5em;
